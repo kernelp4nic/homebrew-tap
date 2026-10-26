@@ -1,8 +1,8 @@
 class TeleportTui < Formula
   desc "Terminal UI to browse, filter and connect to Teleport hosts"
   homepage "https://github.com/kernelp4nic/teleport-desktop"
-  url "https://github.com/kernelp4nic/teleport-desktop/archive/refs/tags/tui-v0.1.2.tar.gz"
-  sha256 "6a22c416a862c4d0cc7bfe37494b89cb3e7c5e54b0bab0557a9c49e80aeb2569"
+  url "https://github.com/kernelp4nic/teleport-desktop/archive/refs/tags/tui-v0.1.3.tar.gz"
+  sha256 "9672feee1241707702140370004eb3e2c02f6d818bf856591b99d5e784c743a8"
 
   depends_on "rust" => :build
 
