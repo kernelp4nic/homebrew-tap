@@ -1,8 +1,8 @@
 class AwsTui < Formula
   desc "AWS terminal explorer with embedded SSM sessions, powered by AWS CLI"
   homepage "https://github.com/kernelp4nic/aws-tui"
-  url "https://github.com/kernelp4nic/aws-tui/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "22bb334f06218ef40f542a71852df73828641eb643de9f7fb7219b2f46fa936e"
+  url "https://github.com/kernelp4nic/aws-tui/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "9a2538dd7052b00e506ee874999897b852dbf39ef3a991baf62b18f39bd61d14"
   license "MIT"
 
   depends_on "rust" => :build
