@@ -3,3 +3,5 @@
     brew install kernelp4nic/tap/teleport-tui
 
     brew install kernelp4nic/tap/lambda-tui
+
+    brew install kernelp4nic/tap/aws-tui
